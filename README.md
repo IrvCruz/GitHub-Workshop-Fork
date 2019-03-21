@@ -7,6 +7,7 @@ A temporary repo created to teach people about forking repos and submitting pull
 2. Find the errors in the README below and correct **one**
 3. Before submitting a pull request, create another error for someone else to fix
 
+YELLOW
 
 
 ### `// TODO`
